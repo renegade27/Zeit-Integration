@@ -4,7 +4,7 @@
         "@zeit/integration-utils": "latest",
         "axios": "^0.18.0",
         "encoding": "^0.1.12",
-        "node-fetch": "^2.1.2",
+        "node-fetch": "^2.6.1",
         "now": "^15.3.0"
     }
 }
